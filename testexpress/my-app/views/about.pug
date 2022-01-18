@@ -1,0 +1,18 @@
+doctype html
+title test my pug
+h1 Hello World
+p= message 
+//p This is still valid #{message}
+p#myId test ID 
+p.myClass test class
+
+div
+    ul 
+        li This is item 1
+        li This is item 2
+if name 
+    h2 Hi #{name}
+else 
+    h2 Hello! 
+img(src="path/to/image" alt="Alt")
+a(href="https://www.google.com" target="_blank") Link to Google

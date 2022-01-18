@@ -1,0 +1,23 @@
+{
+  "name": "krit",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/Kritkidra/Kritkidra.git",
+  "keywords": [],
+  "author": "Kritkidrakarn <kritkidrakarn@launchbright.co>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kritkidra/Kritkidra/issues"
+  },
+  "homepage": "https://github.com/Kritkidra/Kritkidra#readme",
+  "dependencies": {
+    "@editorjs/editorjs": "^2.22.2",
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  }
+}
