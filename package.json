@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/Kritkidra/Kritkidra#readme",
   "dependencies": {
-    "@editorjs/editorjs": "^2.22.2",
+    "@editorjs/editorjs": "^2.26.2",
     "express": "^4.17.1",
     "pug": "^3.0.2"
   }
